@@ -47,7 +47,7 @@ const LobeHub = memo<LobeHubProps>(
       case 'combine': {
         logoComponent = (
           <>
-            <Logo3d alt="LobeChat" size={size} />
+            <Logo3d alt="ClaireAI" size={size} />
             <LogoText size={size} style={{ marginLeft: Math.round(size / 4) }} />
           </>
         );
